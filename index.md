@@ -1,5 +1,7 @@
 # Hasan Joldic - Software Developer - Fullstack
 
+[PDF](https://enki.fra1.cdn.digitaloceanspaces.com/Hasan%20Joldic.pdf)
+
 E-Mail: <joldic.hasan@gmail.com>  
 Phone: +48 733 741 882  
 Location: Łódź - Poland  

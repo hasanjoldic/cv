@@ -33,7 +33,7 @@ React, REST, Node, Hapi, Postgres, REST, GraphQL, AWS, Google Maps
 Managing end-to-end development of a webapp enabling user-created forms, enforcing intricate user roles and permissions logic.  
 React, Redux, Node, Hapi, Postgres, REST, Ansible
 
-And, many other smaller projects as freelancer...
+### And, many other smaller projects as freelancer...
 
 ## Education
 

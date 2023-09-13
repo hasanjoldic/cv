@@ -2,9 +2,12 @@
 
 [PDF](https://enki.fra1.cdn.digitaloceanspaces.com/Hasan%20Joldic.pdf)
 
-<joldic.hasan@gmail.com> | +48 733 741 882  
-Łódź - Poland  
-[github](https://github.com/hasanjoldic) | [linkedin](https://www.linkedin.com/in/hasanjoldic/)  
+<joldic.hasan@gmail.com>
++48 733 741 882  
+Łódź - Poland
+
+[github](https://github.com/hasanjoldic)
+[linkedin](https://www.linkedin.com/in/hasanjoldic/)  
 
 Most often used tools and technologies:
 

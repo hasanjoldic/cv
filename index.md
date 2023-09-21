@@ -9,41 +9,49 @@
 
 Technologies:
 
-JS/TS, React, NextJS, Node, Express, Postgres, REST, GraphQL, AWS
+- JS/TS
+- React
+- NextJS
+- Node
+- Express
+- Postgres
+- REST
+- GraphQL
+- AWS
 
 ## Experience
 
-### _07.2023 - current_ - Freelance
+### Freelance _07.2023 - current_
 
 Web development in various smaller projects.
 
 React, NextJS, Node, Postgres, REST, GraphQL, AWS
 
-### Gaia Technologies GmbH - <gaia.law> - _03.2023 - 07.2023_ - Freelance
+### Gaia Technologies GmbH, gaia.law _03.2023 - 07.2023_ - Freelance
 
 Directing the development of an all-in-one webapp, providing startups with tools for business planning and contract management, including e-signing.
 
 React, NextJS, Rails, MongoDB, REST, DigitalOcean
 
-### Kitrum - <kitrum.com> - _06.2022 - 02.2023_ - Freelance
+### Kitrum, kitrum.com _06.2022 - 02.2023_ - Freelance
 
 Managing feature addition and codebase improvements on a legacy app, enhancing maintainability, security, and testability.
 
 React, NextJS, Node, ExpressJS, Postgres, REST, GraphQL, AWS
 
-### _01.2022 - 06.2023_ - Freelance
+### Freelance _01.2022 - 06.2023_
 
 Web development in various smaller projects.
 
 React, Node, Postgres, REST, GraphQL, AWS
 
-### Flare Emergency Services - <flare.co.ke> - _07.2018 - 01.2022_ - Full time
+### Flare Emergency Services, flare.co.ke _07.2018 - 01.2022_ - Full time
 
 Managing a critical real-time webapp for emergency dispatchers, prioritizing zero downtime to ensure uninterrupted emergency responses.
 
 React, REST, Node, Hapi, Postgres, REST, GraphQL, AWS, Google Maps
 
-### ISHAP GmbH - <ishap.at> - _04.2016 - 07.2018_ - Full time
+### ISHAP GmbH, ishap.at _04.2016 - 07.2018_ - Full time
 
 Managing end-to-end development of a webapp enabling user-created forms, enforcing intricate user roles and permissions logic.
 

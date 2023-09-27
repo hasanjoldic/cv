@@ -11,6 +11,18 @@
 
 <img height=200 align="center" src="https://github-readme-stats-beta-ashen.vercel.app/api/top-langs?username=hasanjoldic&layout=compact&langs_count=10" />
 
+Technologies:
+
+- JS/TS
+- React
+- NextJS
+- Node
+- Express
+- Postgres
+- REST
+- GraphQL
+- AWS
+
 ## Experience
 
 ### Freelance _07.2023 - current_

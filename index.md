@@ -13,13 +13,13 @@
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img
-    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Javascript.svg"
-    alt="Javascript"
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/JavaScript.svg"
+    alt="JavaScript"
     height="50px"
   />
   <img
-    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Typescript.svg"
-    alt="Typescript"
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/TypeScript.svg"
+    alt="TypeScript"
     height="50px"
   />
   <img

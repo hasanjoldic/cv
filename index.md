@@ -15,14 +15,14 @@
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
-    height="20px"
+    height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
-    height="20px"
+    height="50px"
   />
-</Box>
+</div>
 
 Technologies:
 

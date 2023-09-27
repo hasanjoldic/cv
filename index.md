@@ -11,6 +11,19 @@
 
 <img height=200 align="center" src="https://github-readme-stats-beta-ashen.vercel.app/api/top-langs?username=hasanjoldic&layout=compact&langs_count=10" />
 
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
+    alt="React"
+    height={20}
+  />
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
+    alt="NodeJS"
+    height={20}
+  />
+</Box>
+
 Technologies:
 
 - JS/TS

@@ -11,7 +11,7 @@
 
 <img height=200 align="center" src="https://github-readme-stats-beta-ashen.vercel.app/api/top-langs?username=hasanjoldic&layout=compact&langs_count=10" />
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/JavaScript.svg"
     alt="JavaScript"
@@ -53,18 +53,6 @@
     height="50px"
   />
 </div>
-
-Technologies:
-
-- JS/TS
-- React
-- NextJS
-- Node
-- Express
-- Postgres
-- REST
-- GraphQL
-- AWS
 
 ## Experience
 

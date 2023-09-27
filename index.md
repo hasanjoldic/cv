@@ -13,13 +13,43 @@
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Javascript.svg"
+    alt="Javascript"
+    height="50px"
+  />
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Typescript.svg"
+    alt="Typescript"
+    height="50px"
+  />
+  <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
     height="50px"
   />
   <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
+    alt="NextJS"
+    height="50px"
+  />
+  <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    height="50px"
+  />
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
+    alt="postgrSQL"
+    height="50px"
+  />
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/GraphQL.svg"
+    alt="GraphQL"
+    height="50px"
+  />
+  <img
+    src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
+    alt="AWS"
     height="50px"
   />
 </div>

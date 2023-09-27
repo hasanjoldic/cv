@@ -15,12 +15,12 @@
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
-    height={20}
+    height="20px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
-    height={20}
+    height="20px"
   />
 </Box>
 

@@ -13,49 +13,54 @@
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/JavaScript.svg"
     alt="JavaScript"
+    title="JavaScript"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/TypeScript.svg"
     alt="TypeScript"
+    title="TypeScript"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
     alt="NextJS"
+    title="NextJS"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
     alt="postgreSQL"
+    title="postgreSQL"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/GraphQL.svg"
     alt="GraphQL"
+    title="GraphQL"
     height="50px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
     alt="AWS"
+    title="AWS"
     height="50px"
   />
 </div>
 
 <br />
-
-<img height=200 align="center" src="https://github-readme-stats-beta-ashen.vercel.app/api/top-langs?username=hasanjoldic&layout=compact&langs_count=10" />
-
 
 ## Experience
 
@@ -67,31 +72,37 @@ Web development in various smaller projects.
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
     alt="NextJS"
+    title="NextJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
     alt="postgreSQL"
+    title="postgreSQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/GraphQL.svg"
     alt="GraphQL"
+    title="GraphQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
     alt="AWS"
+    title="AWS"
     height="25px"
   />
 </div>
@@ -104,21 +115,25 @@ Directing the development of an all-in-one webapp, providing startups with tools
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
     alt="NextJS"
+    title="NextJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/RubyOnRails.svg"
     alt="RubyOnRails"
+    title="RubyOnRails"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/MongoDB.svg"
     alt="MongoDB"
+    title="MongoDB"
     height="25px"
   />
 </div>
@@ -131,36 +146,43 @@ Managing feature addition and codebase improvements on a legacy app, enhancing m
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
     alt="NextJS"
+    title="NextJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/ExpressJS.png"
     alt="ExpressJS"
+    title="ExpressJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
     alt="postgreSQL"
+    title="postgreSQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/GraphQL.svg"
     alt="GraphQL"
+    title="GraphQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
     alt="AWS"
+    title="AWS"
     height="25px"
   />
 </div>
@@ -173,26 +195,31 @@ Web development in various smaller projects.
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NextJS.svg"
     alt="NextJS"
+    title="NextJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/ExpressJS.png"
     alt="ExpressJS"
+    title="ExpressJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
     alt="AWS"
+    title="AWS"
     height="25px"
   />
 </div>
@@ -205,36 +232,43 @@ Managing a critical real-time webapp for emergency dispatchers, prioritizing zer
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Redux.svg"
     alt="Redux"
+    title="Redux"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Hapi.svg"
     alt="Hapi"
+    title="Hapi"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
     alt="postgreSQL"
+    title="postgreSQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/GraphQL.svg"
     alt="GraphQL"
+    title="GraphQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/AWS.svg"
     alt="AWS"
+    title="AWS"
     height="25px"
   />
 </div>
@@ -247,31 +281,37 @@ Managing end-to-end development of a webapp enabling user-created forms, enforci
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/React.svg"
     alt="React"
+    title="React"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Redux.png"
     alt="Redux"
+    title="Redux"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/NodeJS.svg"
     alt="NodeJS"
+    title="NodeJS"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Hapi.svg"
     alt="Hapi"
+    title="Hapi"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/postgreSQL.svg"
     alt="postgreSQL"
+    title="postgreSQL"
     height="25px"
   />
   <img
     src="https://enki.fra1.digitaloceanspaces.com/hasanjoldic.com/technology-logos/Ansible.svg"
     alt="Ansible"
+    title="Ansible"
     height="25px"
   />
 </div>

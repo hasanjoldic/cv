@@ -1,6 +1,6 @@
 # Hasan Joldic - Web Developer
 
-[PDF](https://enki.fra1.cdn.digitaloceanspaces.com/Hasan%20Joldic.pdf)
+[PDF](https://enki.fra1.cdn.digitaloceanspaces.com/Hasan%20Joldic%20CV.pdf)
 
 <joldic.hasan@gmail.com>  
 +48 733 741 882  

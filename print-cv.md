@@ -1,7 +1,5 @@
 # Hasan Joldic - Web Developer
 
-[PDF](https://enki.fra1.cdn.digitaloceanspaces.com/Hasan%20Joldic.pdf)
-
 <joldic.hasan@gmail.com>  
 +48 733 741 882  
 Łódź - Poland

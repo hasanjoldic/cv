@@ -138,7 +138,7 @@ Directing the development of an all-in-one webapp, providing startups with tools
   />
 </div>
 
-### Kitrum, kitrum.com _06.2022 - 02.2023_ - Freelance
+### Tawkify, tawkify.com _01.2023 - 03.2023_ - Freelance
 
 Managing feature addition and codebase improvements on a legacy app, enhancing maintainability, security, and testability.
 
@@ -187,7 +187,7 @@ Managing feature addition and codebase improvements on a legacy app, enhancing m
   />
 </div>
 
-### Freelance _01.2022 - 06.2023_
+### Freelance _01.2022 - 12.2023_
 
 Web development in various smaller projects.
 

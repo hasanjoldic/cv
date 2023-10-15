@@ -323,6 +323,7 @@ Managing end-to-end development of a webapp enabling user-created forms, enforci
 ## Certifications
 
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
 
 ## Languages
 

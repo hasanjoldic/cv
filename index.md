@@ -66,7 +66,7 @@
 
 ### Freelance _07.2023 - current_
 
-Web development in various smaller projects.
+Web development in various projects.
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
   <img
@@ -189,7 +189,7 @@ Managing feature addition and codebase improvements on a legacy app, enhancing m
 
 ### Freelance _01.2022 - 12.2023_
 
-Web development in various smaller projects.
+Web development in various projects.
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
   <img
